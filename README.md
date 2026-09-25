@@ -30,9 +30,6 @@
 </p>
 
 <p align="center">
-<img width="600" height="120" alt="image" src="https://github.com/user-attachments/assets/661f2011-7e44-467c-bf92-49cb34efd270" />
+<img width="500" height="120" alt="image" src="https://github.com/user-attachments/assets/e39f187f-f07d-4366-abd1-95f1f67e640b" />
 </p>
-
-<img align="right" width="500" height="120" alt="image" src="https://github.com/user-attachments/assets/e39f187f-f07d-4366-abd1-95f1f67e640b" />
-
 
