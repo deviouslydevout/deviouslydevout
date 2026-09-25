@@ -14,7 +14,7 @@
 <br clear="all" /> 
 <p align="center">
 <br>
-  ${\textsf{\color{#FF3333}───────────────+─────────────────}}$
+  ${\textsf{\color{#FF3333}────────────────+─────────────────}}$
 </p>
 <p align="center">
 <br> $\textit{{\color{#FF3333}   Dr. Doctor MD / Ismaelle / Paris / Ghozt / Thomas}}$  
