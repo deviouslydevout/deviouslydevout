@@ -26,7 +26,11 @@
 </p>
 <p align="center">
 <br> $\textit{{\color{#FF3333}   World's Biggest Thomas5200, Dark Gathering, Ish13c, and TGWDLM Fan}}$  
-<br> $\textit{{\color{#FF3333}   Unlicensed Doctor}}$
+</p>
+
+<p align="center">
+<br>
+  ${\textsf{\color{#FF3333}─────────────────────────────────}}$
 </p>
 
 <p align="center">
