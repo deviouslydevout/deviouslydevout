@@ -14,7 +14,7 @@
 <br clear="all" /> 
 <p align="center">
 <br>
-  ${\textsf{\color{#FF3333}────────────────+─────────────────}}$
+  ${\textsf{\color{#FF3333}──────────────────+─────────────────}}$
 </p>
 <p align="center">
 <br> $\textit{{\color{#FF3333}   Dr. Doctor MD / Ismaelle / Paris / Ghozt / Thomas}}$  
@@ -22,7 +22,7 @@
 </p>
 <p align="center">
 <br>
-  ${\textsf{\color{#FF3333}────────────────+─────────────────}}$
+  ${\textsf{\color{#FF3333}──────────────────+─────────────────}}$
 </p>
 <p align="center">
 <br> $\textit{{\color{#FF3333}   World's Biggest Thomas5200, Dark Gathering, Ish13c, and TGWDLM Fan}}$  
@@ -30,7 +30,7 @@
 
 <p align="center">
 <br>
-  ${\textsf{\color{#FF3333}────────────────+─────────────────}}$
+  ${\textsf{\color{#FF3333}──────────────────+─────────────────}}$
 </p>
 
 <p align="center">
