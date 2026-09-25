@@ -34,7 +34,6 @@
 </p>
 
 <p align="center">
-<img width="2048" height="459" alt="image" src="https://github.com/user-attachments/assets/aa6acc49-a765-4f13-837e-58a3b0a22dea" />
-/>
+<img width="2048" height="459" alt="image" src="https://github.com/user-attachments/assets/47a6f734-457d-426d-b959-13ce5c00947c" />
 </p>
 
