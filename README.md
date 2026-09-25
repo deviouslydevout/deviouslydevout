@@ -1,14 +1,15 @@
 ## 5200 day old wip
-
+<p>
 <img align="left" width="500" src="https://github.com/user-attachments/assets/bf567cad-0de3-4f4a-85a3-63266ab4f1e3" />
-<br>
-<br>
+</p>
+
 <p align="center">
 <img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/9505b67c-6822-42f6-9ddd-80cdba233db0" />
 </p>
 
+<p>
 <img align="right" width="500" src="https://github.com/user-attachments/assets/607e053f-b37a-4985-92ca-47a629586188" />
-
+</p>
 
 <p align="center">
 <br>
