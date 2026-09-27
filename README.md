@@ -17,7 +17,7 @@
   ${\textsf{\color{#FF3333}──────────────────+─────────────────}}$
 </p>
 <p align="center">
-<br> $\textit{{\color{#FF3333}   Dr. Doctor MD / Ismaelle}}$  
+<br> $\textit{{\color{#FF3333}   Dr. Doctor MD / Ismaelle / Ishmael }}$  
 <br> $\textit{{\color{#FF3333}   Paris / Thomas / Ghozt}}$  
 <br> $\textit{{\color{#FF3333}   He / She / THEY / Hymn / etc}}$
 </p>
