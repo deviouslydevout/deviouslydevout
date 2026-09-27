@@ -17,7 +17,8 @@
   ${\textsf{\color{#FF3333}──────────────────+─────────────────}}$
 </p>
 <p align="center">
-<br> $\textit{{\color{#FF3333}   Dr. Doctor MD / Ismaelle / Paris / Ghozt / Thomas}}$  
+<br> $\textit{{\color{#FF3333}   Dr. Doctor MD / Ismaelle}}$  
+<br> $\textit{{\color{#FF3333}   Paris / Thomas / Ghozt}}$  
 <br> $\textit{{\color{#FF3333}   He / She / THEY / Hymn / etc}}$
 </p>
 <p align="center">
@@ -25,7 +26,7 @@
   ${\textsf{\color{#FF3333}──────────────────+─────────────────}}$
 </p>
 <p align="center">
-<br> $\textit{{\color{#FF3333}   World's Biggest Thomas5200, Dark Gathering, Ish13c, and TGWDLM Fan}}$  
+<br> $\textit{{\color{#FF3333}   TGWDLM and Dark Gathering fans hmu}}$  
 </p>
 
 <p align="center">
