@@ -33,6 +33,9 @@
 <br>
   ${\textsf{\color{#FF3333}──────────────────+─────────────────}}$
 </p>
+<p align="center">
+<br> $\textit{{\color{#FF3333}   all essential info is in Patreon and Pronouns page}}$  
+</p>
 
 <p align="center">
 <img width="2048" height="459" alt="image" src="https://github.com/user-attachments/assets/47a6f734-457d-426d-b959-13ce5c00947c" />
