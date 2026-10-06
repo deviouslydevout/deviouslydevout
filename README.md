@@ -26,7 +26,7 @@
   ${\textsf{\color{#FF3333}──────────────────+─────────────────}}$
 </p>
 <p align="center">
-<br> $\textit{{\color{#FF3333}   TGWDLM and Dark Gathering fans hmu}}$  
+<br> $\textit{{\color{#FF3333}   NQH and Dark Gathering fans hmu}}$  
 </p>
 
 <p align="center">
